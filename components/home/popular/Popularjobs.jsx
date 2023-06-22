@@ -24,7 +24,7 @@ const Popularjobs = () => {
 
 	const handleCardPress = (item) => {};
 
-	// console.log(data);
+	// console.log(data, "Hi");
 	return (
 		<View style={styles.container}>
 			<View style={styles.header}>
